@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\Tatsiana_Baldouskaya\Vividus\.metadata\.plugins\org.eclipse.jdt.core
+2005247670.index

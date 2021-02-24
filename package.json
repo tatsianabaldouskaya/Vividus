@@ -1,0 +1,25 @@
+{
+  "name": "vividus",
+  "version": "1.0.0",
+  "description": "The purpose of this repository is to help users start creating automated tests using Vividus.",
+  "main": "server.js",
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "node-static": "^0.7.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatsianabaldouskaya/Vividus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tatsianabaldouskaya/Vividus/issues"
+  },
+  "homepage": "https://github.com/tatsianabaldouskaya/Vividus#readme"
+}

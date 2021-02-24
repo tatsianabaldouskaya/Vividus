@@ -1,0 +1,11 @@
+Composite: When I login as a registered user
+When I enter `${userEmail}` in field located `By.id(ap_email)`
+When I enter `${password}` in field located `By.id(ap_password)`
+When I click on element located `By.id(signInSubmit)`
+
+Composite: When I login as existing user
+When I enter `${userEmail}` in field located `By.id(user)`
+When I enter `${mypassword}` in field located `By.id(password)`
+When I click on element located `By.id(login)`
+When I enter `${mypassword}` in field located `By.id(password)`
+When I click on element located `By.id(login-submit)`
